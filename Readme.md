@@ -1,6 +1,6 @@
 # Statistical Learning Theory HS 2023 @ ETH Zurich
 ## Markov Chain Monte Carlo Sampling
-<img align="right" height="110" src="https://github.com/jiaqingxie/Statistical-Learning-Theory-ETHZ/tree/main/Images/1.png"></img>
+<img align="right" height="110" src="https://github.com/jiaqingxie/Statistical-Learning-Theory-ETHZ/blob/main/Images/1.png"></img>
 
 This project explores several [MCMC sampling procedures](https://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf) and applies them to (1) the image denoising problem by assuming an underlying Ising model, and (2) to a combinatorial optimization problem, namely TSP.
 <br/><br/>
