@@ -17,7 +17,7 @@ In this project, we segmented an image with histogram clustering (HC). We implem
 
 ## Constant Shift Embedding
 <img align="right" height="130" src="https://github.com/jiaqingxie/Statistical-Learning-Theory-ETHZ/blob/main/Images/4.png"></img>
-Many real-world phenomena are described by pairwise proximity data, modeling interactions between the entities of the system. This in contrast to the more common situation where each data sample is given as a feature vector. Even though the clustering of the proximity data may be performed directly on the data matrix, there are some advantatages of  embedding the data into a vector space. For example, it enables the use of some standard preprocessing techniques such as denoising or dimensionality reduction. In this coding exercise, we will explore the tecnhique called _Constant Shift Embedding_ for restating pairwise clustering problems in vector spaces [1] while preserving the cluster structure. We will apply the algorithm described in [1] to cluster the groups of research community members based on the email correspondence matrix. The data and its description is given in [2].
+In this project, we explored the tecnhique called _Constant Shift Embedding_ for restating pairwise clustering problems in vector spaces [1] while preserving the cluster structure. We applied the algorithm described in [1] to cluster the groups of research community members based on the email correspondence matrix. The data and its description is given in [2].
 
 ### References 
 
