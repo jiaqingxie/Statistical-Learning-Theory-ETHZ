@@ -17,14 +17,7 @@ In this project, we segmented an image with histogram clustering (HC). We implem
 
 ## Constant Shift Embedding
 <img align="right" height="130" src="https://github.com/jiaqingxie/Statistical-Learning-Theory-ETHZ/blob/main/Images/4.png"></img>
-In this project, we explored the tecnhique called _Constant Shift Embedding_ for restating pairwise clustering problems in vector spaces [1] while preserving the cluster structure. We applied the algorithm described in [1] to cluster the groups of research community members based on the email correspondence matrix. The data and its description is given in [2].
-
-### References 
-
-[1] [Optimal cluster preserving embedding of nonmetric proximity data](https://ieeexplore.ieee.org/document/1251147)
-
-[2] [email-Eu-core](https://snap.stanford.edu/data/email-Eu-core.html)
-<br/><br/>
+In this project, we explored the tecnhique called _Constant Shift Embedding_ for restating pairwise clustering problems in vector spaces while preserving the cluster structure. We applied the algorithm  to cluster the groups of research community members based on the email correspondence matrix.
 
 ## Mean Field Approximation
 <img align="right" height="130" src="https://github.com/jiaqingxie/Statistical-Learning-Theory-ETHZ/blob/main/Images/5.png"></img>
